@@ -1,4 +1,4 @@
-<script>
+<script src="C:\Users\Akshay\Documents\GitHub\sip24-svelte-quick-notes\src\main.js">
  
 </script>
 
@@ -6,6 +6,6 @@
   Hello World
 </main>
 
-<style>
+<style rel="stylesheet" href="C:\Users\Akshay\Documents\GitHub\sip24-svelte-quick-notes\src\app.css">
 
 </style>
